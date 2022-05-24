@@ -1,4 +1,4 @@
-# test_demo  (Assignment 1)
+# test_demo  (commands for Assignment 1 )
 
 mkdir project_dir
 cd project_dir
